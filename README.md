@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Quem sou eu?</h4>
+<h3 align="left">Quem sou eu?</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">Algumas Curiosidades</h4>
+<h3 align="left">Algumas Curiosidades</h3>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">Tecnologias</h4>
+<h3 align="left">Tecnologias</h3>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h4 align="left">Design</h4>
+<h3 align="left">Design</h3>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h4 align="left">Redes sociais</h4>
+<h3 align="left">Redes sociais</h3>
 
 ###
 
