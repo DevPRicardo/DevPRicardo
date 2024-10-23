@@ -14,15 +14,17 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/DevPRicardo/DevPRicardo/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<p align="left">Sou desenvolvedor front-end com experiência em HTML, CSS, JavaScript, React, Tailwind CSS e UI/UX. Atualmente, trabalho como freelancer criando soluções web eficientes e funcionais.</p>
+<h3 align="left">Quem sou eu?</h3>
 
 ###
 
-<h3 align="left">Quem sou eu?</h3>
+<p align="left">Sou desenvolvedor front-end com experiência em HTML, CSS, JavaScript, React, Tailwind CSS e UI/UX. Atualmente, trabalho como freelancer criando soluções web eficientes e funcionais.</p>
 
 ###
 
