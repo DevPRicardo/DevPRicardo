@@ -1,4 +1,4 @@
-<p align="left">Muito prazer, Paulo Ricardo ✋</p>
+<h2 align="left">Muito prazer, Paulo Ricardo ✋</h2>
 
 ###
 
