@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou desenvolvedor front-end com experiência em HTML, CSS, JavaScript, React, Tailwind CSS e UI/UX. Atualmente, trabalho como freelancer criando soluções web eficientes e funcionais.</p>
+<p align="left">Desenvolvedor front-end, mas também alguém que gosta de aprender constantemente e crescer com cada experiência. Cristão, leitor e sempre em busca de boas conversas e bons momentos com amigos. Meu trabalho vai além do código — envolve pessoas e histórias..</p>
 
 ###
 
